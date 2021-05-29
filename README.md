@@ -1,2 +1,2 @@
-# Kaggle_Covid19_Forecasting
 
+Kaggle COVID19 Forecasting : In this paper,I have taken the John Hopkins corona virus data, which will be analyzed by using the machine learning and data science techniques, In this mainly focusing on implementing the two-time series models (ARIMA and SARIMA) on the John Hopkins dataset to predict the number of cases (confirmed, recovered and death) of different countries and also able to compare the performance of the two models by using the evaluation Metrics.
